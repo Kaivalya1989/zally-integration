@@ -1,1 +1,4 @@
-my sample zally
+swagger_path: server/src/main/resources/api/zally.yaml
+ignored_rules: 
+  - foo
+  - bar
