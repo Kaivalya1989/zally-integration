@@ -1,4 +1,4 @@
-swagger_path: server/src/main/resources/api/zally.yaml
+swagger_path: zally.yaml
 ignored_rules: 
   - foo
   - bar
